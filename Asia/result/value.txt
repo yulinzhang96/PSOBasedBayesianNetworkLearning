@@ -1,0 +1,7 @@
+Global best BIC value = -1024.05
+Global best BIC value = -1024.05
+Global best BIC value = -1799.8
+Global best BIC value = -1818.69
+Global best BIC value = -1788.02
+Global best BIC value = -1690.07
+Global best BIC value = -1594.36

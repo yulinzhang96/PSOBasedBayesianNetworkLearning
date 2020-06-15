@@ -1,0 +1,6 @@
+Accuracy = 0%
+Accuracy = 0%
+Accuracy = 18.75%
+Accuracy = 31.25%
+Accuracy = 68.75%
+Accuracy = 75%

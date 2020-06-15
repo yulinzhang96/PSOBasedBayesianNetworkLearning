@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1557714426 source:e:\c_codes\bn_version6\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<map>
+	<string>
+	<fstream>
+	<sstream>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<set>
+

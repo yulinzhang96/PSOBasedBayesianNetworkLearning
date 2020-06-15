@@ -1,0 +1,222 @@
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,0 1 2 0 0,3 0 1 2 0,0 1 0 0 3,5 0 3 1 0,0 3 5 4 6,3 1 5 0 4>
+Global best BIC value = -1387.19
+
+******************************Batch[0]******************************
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,0 1 2 0 0,2 3 1 0 0,0 3 4 0 0,5 0 3 1 0,0 3 5 4 6,3 1 5 0 4>
+Global best BIC value = -1381.96
+Node[1]:
+P(Node[1]=0)=0.992
+P(Node[1]=1)=0.008
+Node[2]:
+P(Node[2]=0)=0.484
+P(Node[2]=1)=0.516
+Node[3]:
+P(Node[3]=0)=0.994
+P(Node[3]=1)=0.006
+Node[4]:
+P(Node[4]=0)=0.952
+P(Node[4]=1)=0.048
+Node[5]:
+P(Node[5]=0)=0.52
+P(Node[5]=1)=0.48
+Node[6]:
+P(Node[6]=0)=0.948
+P(Node[6]=1)=0.052
+Node[7]:
+P(Node[7]=0)=0.558
+P(Node[7]=1)=0.442
+Node[8]:
+P(Node[8]=1)=0.884
+P(Node[8]=0)=0.116
+
+******************************Batch[1]******************************
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 0 0 1 0,1 0 0 0 0,1 0 2 0 0,1 0 0 3 0,0 1 0 3 5,2 0 4 6 0,2 3 0 1 7>
+Global best BIC value = -1541.72
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 0 0 1 0,2 1 0 0 0,1 2 0 0 0,1 0 0 3 0,0 1 0 3 5,3 4 2 5 0,0 5 4 2 6>
+Global best BIC value = -1410.37
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,2 1 0 0 0,3 0 0 2 0,0 2 4 3 0,0 4 3 5 0,3 5 2 0 1,0 5 7 0 1>
+Global best BIC value = -1329.37
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 0 0 1 0,2 1 0 0 0,1 2 0 0 0,0 2 4 3 0,1 2 0 0 4,0 3 5 4 6,0 5 4 2 6>
+Global best BIC value = -1293.28
+Node[1]:
+P(Node[1]=0)=0.992
+P(Node[1]=1)=0.008
+Node[2]:
+P(Node[2]=1)=0.498
+P(Node[2]=0)=0.502
+Node[3]:
+P(Node[3]=0)=0.998
+P(Node[3]=1)=0.002
+Node[4]:
+P(Node[4]=0)=0.934
+P(Node[4]=1)=0.066
+Node[5]:
+P(Node[5]=1)=0.406
+P(Node[5]=0)=0.594
+Node[6]:
+P(Node[6]=0)=0.932
+P(Node[6]=1)=0.068
+Node[7]:
+P(Node[7]=1)=0.404
+P(Node[7]=0)=0.596
+Node[8]:
+P(Node[8]=1)=0.88
+P(Node[8]=0)=0.12
+
+******************************Batch[2]******************************
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 0 1 0 0,0 0 1 2 0,0 2 1 0 0,1 0 3 0 2,0 0 5 1 2,5 2 1 0 3,7 0 3 1 4>
+Global best BIC value = -1405.39
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 0 1 0 0,0 1 0 2 0,0 2 1 0 0,1 0 3 0 2,3 4 0 2 0,5 0 0 0 2,0 5 0 4 7>
+Global best BIC value = -1238.77
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,2 0 1 0 0,2 1 0 0 3,1 0 0 0 0,4 0 3 1 0,3 4 0 5 0,4 6 2 0 0>
+Global best BIC value = -1249.58
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,0 1 0 2 0,0 2 1 0 0,0 2 4 3 0,3 4 0 2 0,3 6 5 0 0,0 5 0 4 7>
+Global best BIC value = -1237.22
+Node[1]:
+P(Node[1]=0)=0.988
+P(Node[1]=1)=0.012
+Node[2]:
+P(Node[2]=1)=0.498
+P(Node[2]=0)=0.502
+Node[3]:
+P(Node[3]=0)=0.99
+P(Node[3]=1)=0.01
+Node[4]:
+P(Node[4]=1)=0.068
+P(Node[4]=0)=0.932
+Node[5]:
+P(Node[5]=0)=0.574
+P(Node[5]=1)=0.426
+Node[6]:
+P(Node[6]=1)=0.078
+P(Node[6]=0)=0.922
+Node[7]:
+P(Node[7]=1)=0.408
+P(Node[7]=0)=0.592
+Node[8]:
+P(Node[8]=0)=0.12
+P(Node[8]=1)=0.88
+
+******************************Batch[3]******************************
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 1 0 0 0,0 0 1 0 2,1 3 0 0 0,4 1 0 0 0,2 0 0 0 4,1 6 0 0 5,2 5 1 0 7>
+Global best BIC value = -1358.7
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 1 0 0 0,1 2 0 0 0,0 3 2 0 0,4 2 0 0 0,2 0 0 0 4,1 6 0 0 5,2 5 1 0 7>
+Global best BIC value = -1334.07
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,2 0 0 0 0,3 2 1 0 0,2 3 0 0 0,0 5 3 2 0,0 1 5 3 6,7 3 0 0 5>
+Global best BIC value = -1431.89
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 1 0 0 0,1 2 0 0 0,0 3 2 0 0,4 2 0 0 0,2 0 0 0 4,1 6 0 0 5,0 5 0 4 7>
+Global best BIC value = -1258.33
+Node[1]:
+P(Node[1]=0)=0.99
+P(Node[1]=1)=0.01
+Node[2]:
+P(Node[2]=1)=0.498
+P(Node[2]=0)=0.502
+Node[3]:
+P(Node[3]=0)=0.99
+P(Node[3]=1)=0.01
+Node[4]:
+P(Node[4]=0)=0.938
+P(Node[4]=1)=0.062
+Node[5]:
+P(Node[5]=0)=0.586
+P(Node[5]=1)=0.414
+Node[6]:
+P(Node[6]=0)=0.928
+P(Node[6]=1)=0.072
+Node[7]:
+P(Node[7]=0)=0.576
+P(Node[7]=1)=0.424
+Node[8]:
+P(Node[8]=1)=0.872
+P(Node[8]=0)=0.128
+
+******************************Batch[4]******************************
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,1 0 0 2 0,1 0 0 2 3,4 0 0 0 3,1 2 0 0 0,2 0 4 0 0,3 6 2 4 5>
+Global best BIC value = -1536.98
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,1 0 0 2 0,1 0 0 2 3,4 0 0 0 3,1 2 0 0 0,2 0 4 0 0,3 6 2 4 5>
+Global best BIC value = -1536.98
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,2 0 0 0 0,3 0 1 0 0,0 3 4 2 0,2 5 4 3 0,3 5 0 2 1,1 0 6 0 0>
+Global best BIC value = -1270.16
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,1 0 0 2 0,0 3 2 0 0,4 2 0 0 0,2 0 0 0 4,1 6 0 0 5,0 5 0 4 7>
+Global best BIC value = -1234.78
+Node[1]:
+P(Node[1]=0)=0.988
+P(Node[1]=1)=0.012
+Node[2]:
+P(Node[2]=0)=0.506
+P(Node[2]=1)=0.494
+Node[3]:
+P(Node[3]=0)=0.988
+P(Node[3]=1)=0.012
+Node[4]:
+P(Node[4]=0)=0.942
+P(Node[4]=1)=0.058
+Node[5]:
+P(Node[5]=0)=0.526
+P(Node[5]=1)=0.474
+Node[6]:
+P(Node[6]=0)=0.932
+P(Node[6]=1)=0.068
+Node[7]:
+P(Node[7]=0)=0.546
+P(Node[7]=1)=0.454
+Node[8]:
+P(Node[8]=1)=0.896
+P(Node[8]=0)=0.104
+
+******************************Batch[5]******************************
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,1 0 0 2 0,1 2 0 0 0,2 1 0 0 4,3 1 2 0 0,6 4 2 0 0,5 3 0 4 0>
+Global best BIC value = -1382.23
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,1 0 0 2 0,1 2 0 0 0,2 1 0 0 4,3 1 2 0 0,6 4 2 0 0,5 3 0 4 0>
+Global best BIC value = -1382.23
+Initial Information:
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,0 1 0 0 0,2 1 0 0 0,0 1 0 2 0,0 1 4 2 3,1 0 0 2 4,4 6 1 2 3,3 2 7 4 5>
+Global best BIC value = -1468.44
+
+Global best network:<1,2,3,4,5,6,7,8|0 0 0 0 0,1 0 0 0 0,1 0 0 2 0,1 2 0 0 0,4 2 0 0 0,2 0 0 0 4,6 4 2 0 0,5 3 0 4 0>
+Global best BIC value = -1285.08
+Node[1]:
+P(Node[1]=0)=0.986
+P(Node[1]=1)=0.014
+Node[2]:
+P(Node[2]=0)=0.484
+P(Node[2]=1)=0.516
+Node[3]:
+P(Node[3]=0)=0.992
+P(Node[3]=1)=0.008
+Node[4]:
+P(Node[4]=0)=0.94
+P(Node[4]=1)=0.06
+Node[5]:
+P(Node[5]=0)=0.552
+P(Node[5]=1)=0.448
+Node[6]:
+P(Node[6]=0)=0.932
+P(Node[6]=1)=0.068
+Node[7]:
+P(Node[7]=0)=0.6
+P(Node[7]=1)=0.4
+Node[8]:
+P(Node[8]=1)=0.906
+P(Node[8]=0)=0.094
+
